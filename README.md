@@ -1,6 +1,6 @@
 <img align="left" src="https://cdn.discordapp.com/attachments/1057150235417264178/1099943419092160624/Avatar_1.png" width=130>
 
-### Wilujeng Sumping di Alam Pertugasan
+### Wilujeng Sumping di Dunia Pertugasan
 
 [Salman Rach](https://instagram.com/salmanrach30) Assignment Pool <b>#PastiAdaJalan</b>
 
