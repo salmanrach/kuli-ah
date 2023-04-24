@@ -1,4 +1,4 @@
-<img align="left" src="https://drive.google.com/file/d/1V-giFXnJEPwqJpEkuP-_PS_U7U88y9oW/view?usp=share_link" width=130>
+<img align="left" src="(https://cdn.discordapp.com/attachments/1057150235417264178/1099943419092160624/Avatar_1.png)" width=130>
 
 ### Wilujeng Sumping di Alam Pertugasan
 
