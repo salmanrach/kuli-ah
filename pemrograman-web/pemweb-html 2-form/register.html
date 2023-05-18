@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>HTML 2 | Form Register</title>
+  </head>
+
+  <body style="margin: 10px 150px 150px 150px">
+    <!-- Header -->
+    <table border="1" cellpadding="10">
+      <tr>
+        <td width="250px">
+          <img src="img/logo_1.png" width="60px" height="auto" />
+        </td>
+        <td width="500px" align="center">
+          <h1><font color="#1E1E1E">Header</font></h1>
+        </td>
+        <td width="250px" align="right">
+          <form action="login.html">
+            <button><font color="#1E1E1E" size="3px">Login</font></button>
+          </form>
+        </td>
+      </tr>
+    </table>
+    <!-- Form Register -->
+    <fieldset align="center">
+      <legend><p>REGISTER</p></legend>
+      <form action="login.html" method="post">
+        <p>Username: <input type="text" name="username" required /></p>
+        <p>
+          Email: <input type="email" name="email" required autocomplete="off" />
+        </p>
+        <p>Password : <input type="password" name="password" required /></p>
+        <p>Phone Number: <input type="phone" name="phone" /></p>
+        <p>Birth : <input type="date" name="number" /></p>
+        <p>Photo : <input type="file" required /></p>
+        <button type="submit">SIGN UP</button>
+        <button type="reset">RESET</button>
+      </form>
+    </fieldset>
+  </body>
+</html>
