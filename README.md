@@ -1,4 +1,4 @@
-<img align="left" src="https://cdn.discordapp.com/attachments/1057150235417264178/1099943419092160624/Avatar_1.png" width=130>
+<img align="left" src="https://cdn.discordapp.com/attachments/1057150235417264178/1108606750577406003/icon_1.png" width=130>
 
 ### Wilujeng Sumping di Dunia Pertugasan
 
